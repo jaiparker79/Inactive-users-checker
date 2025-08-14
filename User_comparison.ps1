@@ -1,5 +1,5 @@
 Write-Host "##################################" -ForegroundColor DarkYellow
-Write-Host "User matching script (Version 1.1)" -ForegroundColor DarkYellow
+Write-Host "User matching script (Version 1.0)" -ForegroundColor DarkYellow
 Write-Host "##################################" -ForegroundColor DarkYellow
 Write-Host ""
 Write-Host Comparing user lists... -ForegroundColor Green
@@ -34,3 +34,4 @@ Write-Host ""
 Write-Host Open MatchingUsers.txt -ForegroundColor Green
 Write-Host ""
 Read-Host -Prompt "Press Enter to close" 
+
